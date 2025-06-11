@@ -8,7 +8,7 @@
 /* Custom font (font file available at the fonts folder) */
 @font-face {
     font-family: myFont;
-    src: url(../fonts/Inconsolata-VariableFont_wdth\,wght.ttf);
+    src: url(/fonts/Inconsolata-VariableFont_wdth\,wght.ttf);
 }
 
 .btn{

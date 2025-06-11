@@ -1,7 +1,7 @@
 // Welcome to the form component, (forms -- one of the best way to receive feedbacks and to get data!)
 
 import React, { useState } from "react";
-import infoIconErr from '../assets/images/icon-info-red.svg';
+import infoIconErr from '/assets/images/icon-info-red.svg';
 import DragAndDrop from "./DragAndDrop";
 
 function FormComp({onSubmit}) {

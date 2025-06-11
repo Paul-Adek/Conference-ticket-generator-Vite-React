@@ -1,7 +1,7 @@
 import React from "react";
-import logoImg from '../assets/images/logo-full.svg';
-import logoImgMark from '../assets/images/logo-mark.svg';
-import githubIcon from '../assets/images/icon-github.svg';
+import logoImg from '/assets/images/logo-full.svg';
+import logoImgMark from '/assets/images/logo-mark.svg';
+import githubIcon from '/assets/images/icon-github.svg';
 
 function TicketComp({formData}) {
 

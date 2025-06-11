@@ -2,8 +2,8 @@
 // Welcome to the container component, here the container serves as the root level element of other element/components, aside from the app.jsx, You gerrit?
 
 import React from "react";
-import lineTopImg from '../assets/images/pattern-squiggly-line-top.svg';
-import lines from '../assets/images/pattern-lines.svg';
+import lineTopImg from '/assets/images/pattern-squiggly-line-top.svg';
+import lines from '/assets/images/pattern-lines.svg';
 
 
 function Container({ children }) {

@@ -1,7 +1,7 @@
 // Welcome to the Header component, here the "Header" contains the (Logo, Intro-text/title and lead)
 
 import React from "react";
-import logoImg from '../assets/images/logo-full.svg';
+import logoImg from '/assets/images/logo-full.svg';
 
 
 function Header() {
