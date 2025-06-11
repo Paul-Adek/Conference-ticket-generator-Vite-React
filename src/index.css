@@ -1,0 +1,20 @@
+
+/* Using tailwindcss  (love it!!)*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom font (font file available at the fonts folder) */
+@font-face {
+    font-family: myFont;
+    src: url(../fonts/Inconsolata-VariableFont_wdth\,wght.ttf);
+}
+
+.btn{
+    @apply my-4 w-full h-11 rounded-md bg-altOrange_500 cursor-pointer text-altNeutral_900 font-extrabold text-xl text-wrap transition-all;
+}
+.btn:hover{
+    box-shadow: 0 5px 0 0 #f88b7c;
+    @apply transition-all duration-300;
+}
