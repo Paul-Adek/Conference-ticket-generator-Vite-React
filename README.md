@@ -39,7 +39,7 @@ This is a solution to the [Conference ticket generator challenge on Frontend Men
 -------
 
 * Solution URL: [Add solution URL here](https://your-solution-url.com)
-* Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+* Live Site URL: [Add live site URL here](https://conference-ticket-generator-vite-re.vercel.app)
 
 **My Process**
 -------------
