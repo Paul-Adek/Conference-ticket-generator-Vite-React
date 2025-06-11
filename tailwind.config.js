@@ -22,7 +22,7 @@ export default {
         'altBgLines': 'url("/assets/images/pattern-lines.svg")',
         'altGradient': 'linear-gradient(to right, hsl(7, 86%, 67%),hsl(0, 0%, 100%))',
         'altBgImg': 'url("/assets/images/background-desktop.png")',
-        'altBgImgTab': 'url(".assets/images/background-tablet.png")',
+        'altBgImgTab': 'url("/assets/images/background-tablet.png")',
         'altBgImgDesk': 'url("/assets/images/background-desktop.png")',
         'altBgImgSmall': 'url("/assets/images/pattern-squiggly-line-bottom-mobile-tablet.svg")',
         'altBgImgBig': 'url("/assets/images/pattern-squiggly-line-bottom-desktop.svg")',
