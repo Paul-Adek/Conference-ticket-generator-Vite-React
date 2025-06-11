@@ -53,7 +53,7 @@ This is a solution to the [Conference ticket generator challenge on Frontend Men
 * Mobile-first workflow
 * [React](https://reactjs.org/) - JS library (version 19)
 * [Vite](https://vitejs.dev/) - Development server and build tool
-* Tailwindcss - css framework
+* Tailwindcss - CSS framework
 
 ### What I Learned
 
@@ -71,7 +71,7 @@ Some key takeaways from this project include:
 --------
 
 * Website - [Add your name here](https://www.your-site.com)
-* Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+* Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/paul_adek)
 * Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 **Acknowledgments**
